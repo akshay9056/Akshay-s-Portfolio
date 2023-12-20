@@ -472,13 +472,13 @@ img{
 
 @media screen and (min-width: 1024px){
     .bd-grid{
-        margin-left: auto;
+        margin-left: auto;    
         margin-right: auto;
     }
 }
 
 /* For tall screens on mobiles y desktop*/
-@media screen and (min-height: 721px) {
+@media screen and (min-height: 750px) {
     .home__container {
         height: 640px;
     }
